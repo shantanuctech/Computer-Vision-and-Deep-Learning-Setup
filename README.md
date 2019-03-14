@@ -73,7 +73,7 @@ In case the above mentioned steps fail or you run into any other issues and have
 sudo apt-get purge -y nvidia*
 sudo add-apt-repository -y ppa:graphics-drivers
 sudo apt-get update
-sudo apt-get install -y nvidia-410
+sudo apt-get install -y nvidia-driver-410
 ```
 
 ## 3. Install CUDA
